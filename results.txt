@@ -1,0 +1,15 @@
+The chosen word is company
+
+The character a was found!
+The character e was not found! The error count is 1
+The character r was not found! The error count is 2
+The character z was not found! The error count is 3
+The character p was found!
+The character l was not found! The error count is 4
+The character b was not found! The error count is 5
+The character g was not found! The error count is 6
+The character t was not found! The error count is 7
+The character m was found!
+The character q was not found! The error count is 8
+
+The user failed to find the word.
